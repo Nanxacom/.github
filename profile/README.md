@@ -17,7 +17,7 @@ In every program and every project that Nanxa team build, Nanxa team also make a
 </p>
 <br>
 <br><br><br>
-<h2 align="center">           📝 ~ Official Community Links ~ 📝</h2>
+<h2 align="center">           📝 ~ Official Links ~ 📝</h2>
 <br>
 <p align="center"><a href="https://twitter.com/Nanxacom" target="_blank"><img src="https://img.shields.io/badge/Nanxacom%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://t.me/nanxacom" target="_blank"><img src="https://img.shields.io/badge/Nanxacom%20-%237289DA.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
 <p align="center"><a href="https://medium.com/" target="_blank"><img src="https://img.shields.io/badge/Nanxa%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a></p>
