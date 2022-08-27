@@ -12,7 +12,7 @@
   </div>
 </div>
 <div>
-<p align="center"><a href="https://docs.nanxa.com" target="_blank"><img src="https://img.shields.io/badge/Nanxa%20-%23000000.svg?&style=for-the-badge&logo=Gitbook&logoColor=white"/></a></p><br>
+<p align="center"><a href="https://docs.nanxa.com" target="_blank"><img src="https://img.shields.io/badge/Nanxa Docs%20-%23000000.svg?&style=for-the-badge&logo=Gitbook&logoColor=white"/></a></p><br>
 In every program and every project that Nanxa team build, Nanxa team also make a documentation as a learning tool and knowledge of how and use.
 </p>
 <br>
